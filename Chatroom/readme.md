@@ -14,3 +14,10 @@ After enter the chat room, the user can type in every message freely.
 But the system distinguishes messages by the space, thus on sentence
 will be separated to words and show on the terminal.
 If the user wishes to leave the chatroom, just type in command bye.
+
+Part B: Result
+ 
+Figure 7. Server running screenshot
+
+ 
+Figure 8. Three users chatting screenshot
