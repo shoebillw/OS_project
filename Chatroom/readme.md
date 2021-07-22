@@ -23,7 +23,7 @@ If the user wishes to leave the chatroom, just type in command bye.
 
 Figure 7. Server running screenshot
 
-![image](https://user-images.githubusercontent.com/80030514/126640932-9a17c8fe-bf38-483b-b0cd-eb098df9c91b.png)
+![image](https://user-images.githubusercontent.com/80030514/126641614-006401a4-7571-41e2-b3d2-700d236c1ceb.png)
  
 Figure 8. Three users chatting screenshot
 
